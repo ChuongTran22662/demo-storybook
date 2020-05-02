@@ -1,0 +1,31 @@
+.container{
+    width: 500px;
+    height: 600px;
+}
+
+.email-input{
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.password-input{
+    width: 400px;
+    margin-bottom: 10px;
+}
+.add-book{
+    margin: 10px;
+}
+.add-user{
+    margin: 10px;
+}
+
+
+.add-borrow{
+    width: 100px;
+    margin: 10px;
+}
+.add-borrow{
+    margin: 10px;
+}
+
+/*# sourceMappingURL=main.aba8e9f6.chunk.css.map*/

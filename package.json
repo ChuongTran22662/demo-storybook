@@ -11,12 +11,14 @@
     "@testing-library/user-event": "^7.1.2",
     "babel-loader": "^8.1.0",
     "bootstrap": "^4.4.1",
+    "heroku": "^7.40.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "reactstrap": "^8.4.1"
   },
   "scripts": {
+    "build-storybook": "build-storybook -c .storybook -o .out",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
